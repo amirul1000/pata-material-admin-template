@@ -1,15 +1,11 @@
-#### Build:
 
-1: Install Node.js and NPM on your computer
-2: Run command "npm install -g bower grunt-cli"
-3: Run "bower install" to install dependencies
-4: Run "grunt build:angular" to build project
-5: Run "npm start" to start server
+Pata Material Admin Template|Material Template|Free admin template|Download admin template
+==========================================================================================
 
-#### Run "grunt build:angular" to build app with minified css and js.
+Youtube Tutorial :https://youtu.be/alGuBvnuH1I
 
-#### Preview without "Build":
+Youtube Channel : https://www.youtube.com/channel/UC2Q4oWfoMQzi6AES8Vb2vQw?view_as=subscriber
 
-1: Put all the files on a local server (must include the "app" and "libs" folder)
-2: Open "http://localhost/app/" in browser
-"# pata-material-admin-template" 
+Donate to Paypal : patabuz@gmail.com
+
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=KHM59LRPNV3YY&source=url
