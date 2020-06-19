@@ -2,7 +2,7 @@
 Pata Material Admin Template|Material Template|Free admin template|Download admin template
 ==========================================================================================
 
-Youtube Tutorial :https://youtu.be/alGuBvnuH1I
+Youtube Tutorial : https://youtu.be/ncmOf1jEXdc
 
 Youtube Channel : https://www.youtube.com/channel/UC2Q4oWfoMQzi6AES8Vb2vQw?view_as=subscriber
 
